@@ -4,12 +4,12 @@ To install:
 
 1) Add a line to your .emacs file to include the pbcopy extension to your emacs configuration:
 
- `(load "/path/to/pbcopy/location/pbcopy")`
+ (load "/path/to/pbcopy/location/pbcopy")
 
-Note that you don't need to include the ".el" extension in the path above.
+ Note that you don't need to include the ".el" extension in the path above.
 
 2) Launch emacs.
 
-3) To invoke the extension type "M-x pbcopy"
+3) Use M-x pbcopy to invoke the extension and copy buffer to MacOS clipboard.
 
 4) Ctrl-V wherever you want!
