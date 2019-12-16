@@ -4,7 +4,7 @@ To install:
 
 1) Add a line to your .emacs file to include the pbcopy extension to your emacs configuration:
 
- (load "/path/to/pbcopy/location/pbcopy")
+ `(load "/path/to/pbcopy/location/pbcopy")`
 
 Note that you don't need to include the ".el" extension in the path above.
 
