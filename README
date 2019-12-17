@@ -2,7 +2,7 @@ A emacs extension that copies the contents of the current buffer to the MacOS cl
  
 To install:
 
-1) Add a line to your .emacs file to include the pbcopy extension to your emacs configuration:
+1) Add a line to your .emacs file to include the pbcopy extension to your Emacs configuration:
 
  (load "/path/to/pbcopy/location/pbcopy")
 
